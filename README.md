@@ -7,14 +7,6 @@
 ![JavaScript language](https://img.shields.io/badge/javascript-%23efd81d.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-## My stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=designdeveloperr&&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=designdeveloperr&theme=tokyonight&hide_langs_below=1&layout=compact&langs_count=20" />
-</a>
-
 ## Social
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HenryQFX)
 [![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/McDfZeRmkr)
