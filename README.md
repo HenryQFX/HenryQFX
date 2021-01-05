@@ -1,5 +1,5 @@
 ![](/reheader.glitch.me.png)
-# HI! 
+# > Hello, World!_ 
 
 ## My Techs & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -16,15 +16,16 @@
 </a>
 
 ## Social
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/designdeveloperr)
-[![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gcd6Mwa)
-[![Telegram](https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/design_developer)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/HenryQFX)
+[![Discord](https://img.shields.io/badge/discord-%236b86c9.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/McDfZeRmkr)
 
 
-## My working setup
+## My desktop working setup
 ![Core i5 2310](https://img.shields.io/badge/intel-%20%20core_i9_10980XE-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![RX 550 4GB](https://img.shields.io/badge/nvidia-rtx2080ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 ![Win10 Pro](https://img.shields.io/badge/windows-10%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+
+## My nootbook working setup
 
 ![Core 2 Duo](https://img.shields.io/badge/intel-xeon%20x5675-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white)
 ![Ubuntu server](https://img.shields.io/badge/ubuntu%20server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
