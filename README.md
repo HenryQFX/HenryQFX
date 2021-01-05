@@ -1,11 +1,6 @@
 ![](/reheader.glitch.me.png)
 # HI! 
 
-### That's how many people are interested in my profile
-![Visitor Count](https://profile-counter.glitch.me/designdeveloperr/count.svg)
-
-What does this mean? About nothing))))
-
 ## My Techs & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Python language](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
